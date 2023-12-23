@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**Iamarman79/Iamarman79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 Hey Folks !! I am Arman Mansury a 3rd Year Btech in Artificial Intelligence  and Machine Learning Student from GGSIPU .<br>So as my Majors is in AI and ML my interest also rely on machine learning and deep learning. i have been working on this techs from my first year onwards.<br>I have intern with Ministry of Cooperation on National cooperative Data Repositery as an Data Analytics.<br>
 
@@ -18,13 +11,6 @@ Hey Folks !! I am Arman Mansury a 3rd Year Btech in Artificial Intelligence  and
 ![](https://github-readme-stats.vercel.app/api?username=Iamarman79&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Iamarman79&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamarman79&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Iamarman79&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Iamarman79&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Iamarman79&icon=6&color=1)](https://visitcount.itsvg.in)
 
