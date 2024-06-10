@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey Folks !! I am Arman Mansury a 3rd Year Btech in Artificial Intelligence  and Machine Learning Student from GGSIPU .<br>So as my Majors is in AI and ML my interest also rely on machine learning and deep learning. i have been working on this techs from my first year onwards.<br>I have intern with Ministry of Cooperation on National cooperative Data Repositery as an Data Analytics.<br>
+Hey Folks !! I am Arman Mansury a 3rd Year Btech in Artificial Intelligence  and Machine Learning Student from GGSIPU and a AI engineer Intern at Kritrimalq Solution.<br>So as my Majors is in AI and ML my interest also rely on machine learning and deep learning. i have been working on this techs from my first year onwards.<br>I have intern with Ministry of Cooperation on National cooperative Data Repositery as an Data Analytics.<br>
 
 
 ## 🌐 Socials:
